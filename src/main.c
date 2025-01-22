@@ -1,6 +1,5 @@
 // main.c
 #define _CRT_SECURE_NO_WARNINGS
-// main.c
 #include <stdio.h>
 #include <windows.h>
 #include "window_handle.h"
