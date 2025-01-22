@@ -1,10 +1,9 @@
-// main.c
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <windows.h>
 #include "window_handle.h"
 
-// Forward declarations from file.c
+// From file.c
 void processNVIDIADownloads(void);
 void processAMDDownloads(void);
 
